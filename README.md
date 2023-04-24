@@ -1,5 +1,5 @@
 # Conexion-Java-MariaDB
-## Belén Gamero Garcia y Edgar López Hernández
+### Belén Gamero Garcia y Edgar López Hernández
 
 # Conexión simple usando JDBC
 
